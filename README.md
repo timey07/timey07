@@ -1,20 +1,20 @@
 # Hi, I'm Soneesh 👋
-
-💻 Full Stack Developer  
-⚙️ Backend Engineer  
-🧠 DSA & Problem Solving  
-🚀 Building scalable web applications  
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Backend+Engineer+%E2%9A%99%EF%B8%8F;DSA+%26+Problem+Solving+%F0%9F%A7%A0;Building+Scalable+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,mysql,react,nextjs,nodejs,express,mongodb,supabase,tailwind,arduino,raspberrypi,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,mysql,react,nextjs,nodejs,express,mongodb,supabase,tailwind,raspberrypi,git,github,vscode)](https://skillicons.dev)
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timey07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=timey07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=timey07&theme=tokyonight&hide_border=false)
 
@@ -31,6 +31,8 @@
 ## 📊 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=timey07&theme=tokyo-night)
+
+---
 
 ## ✍️ Random Dev Quote
 
