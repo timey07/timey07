@@ -1,3 +1,5 @@
+# Hi, I am Soneesh Srivastava 👋
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=timey07&label=Profile%20Views&color=7aa2f7&style=flat" alt="Profile Views" />
 </div>
@@ -6,18 +8,9 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <!-- Added a line for your hardware/embedded interests! -->
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DSA+%26+Problem+Solving;Embedded+Systems+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 </div>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 **Currently focusing on:** Deepening my knowledge in Data Structures, Algorithms, and Artificial Intelligence (Search Heuristics & NLP).
-- 💻 **Tech Arsenal:** Building robust web applications with **Next.js & Supabase**, while also writing C++ logic for microcontrollers like **Raspberry Pi Pico & Arduino**.
-- ⚙️ **Passionate about:** Blending software and hardware—whether it's writing greedy algorithms or configuring I2C displays and PIR sensors!
 
 ---
 
@@ -53,7 +46,8 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=timey07&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <!-- Swapped to a stable Vercel mirror to fix the broken streak issue -->
+  <img src="https://streak-stats.macheng.io/?user=timey07&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
