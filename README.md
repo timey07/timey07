@@ -46,8 +46,7 @@
 </div>
 <br>
 <div align="center">
-  <!-- Swapped to a stable Vercel mirror to fix the broken streak issue -->
-  <img src="https://streak-stats.macheng.io/?user=timey07&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=timey07&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
