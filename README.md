@@ -14,7 +14,7 @@
 
 ## 🚀 Featured Projects
 
-### 🎓 [Vidyarthi Companion](https://github.com/timey07/VidyarthiCompanion_Frontend) | [Frontend](https://github.com/timey07/VidyarthiCompanion_Frontend) & [Backend](https://github.com/timey07/VidyarthiCompanion_Backend) | [Live Demo](https://vidyarthicompanionfrontend.vercel.app)
+### 🎓 Vidyarthi Companion | [Frontend](https://github.com/timey07/VidyarthiCompanion_Frontend) & [Backend](https://github.com/timey07/VidyarthiCompanion_Backend) | [Live Demo](https://vidyarthicompanionfrontend.vercel.app)
 *An AI-powered academic assistant and student productivity suite built for **HackOn with Amazon 2026** by Team QuantYap.*
 *   **Key Systems:** Google Gemini Flash RAG-based query engine, dynamic schedule planner, automated event extraction from flyer images, and a location-based transit tracker using the Haversine formula to compute campus distance/delays.
 *   **Architecture:** Decoupled full-stack application (Next.js App Router client communicating with a secure Node.js/Express API gateway and MongoDB).
