@@ -1,14 +1,25 @@
-# Hi, I am Soneesh Srivastava 👋
-
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:394b70,100:1a1b26&height=250&section=header&text=Hi,%20I'm%20Soneesh%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  
   <img src="https://komarev.com/ghpvc/?username=timey07&label=Profile%20Views&color=7aa2f7&style=flat" alt="Profile Views" />
-</div>
-
-<br>
-
-<div align="center">
+  <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DSA+%26+Problem+Solving;Backend+Engineer;Building+Scalable+Web+Apps" alt="Typing SVG" />
 </div>
+
+---
+
+## 💫 About Me
+
+<img align="right" width="320" src="./hacking.gif" alt="Hacking GIF" />
+
+- 💻 Aspiring **Full Stack Developer** & **Backend Engineer**
+- 🚀 Passionate about building highly scalable systems and clean architectures
+- 🌱 Currently exploring Advanced Backend Development & Distributed Systems
+- ⚡ Focusing on Data Structures, Algorithms, and Problem Solving
+- ✨ Always eager to learn new technologies and contribute to Open Source
+- ☕ Turning caffeine into efficient code
+
+<br clear="right"/>
 
 ---
 
@@ -22,15 +33,15 @@
 
 ### ⚡ [RateLimiter](https://github.com/timey07/RateLimiter)
 *A high-performance, production-grade distributed rate-limiting service built for microservice API gateways.*
-*   **Key Systems:** Atomic Lua scripting in Redis to prevent horizonal race conditions/split-brain states, Token Bucket & Sliding Window Counter algorithms, client tiering, and an LRU local caching failover for seamless Redis downtime resilience.
+*   **Key Systems:** Atomic Lua scripting in Redis to prevent horizontal race conditions/split-brain states, Token Bucket & Sliding Window Counter algorithms, client tiering, and an LRU local caching failover for seamless Redis downtime resilience.
 *   **Observability:** Prometheus & Grafana dashboard for real-time monitoring and throughput metrics, load-tested using Autocannon.
 *   **Tech Stack:** Node.js, Express, Redis, Lua scripting, Docker, Prometheus, Grafana, Jest, Autocannon.
 
-### 🛡️ [SentinelIQ](https://github.com/timey07/SentinelIQ)
-*A real-time Machine Learning platform for payment fraud detection and explainable risk analytics.*
-*   **Key Systems:** Supervised XGBoost classifier for transaction risk scoring, unsupervised Isolation Forest anomaly scanner, and SHAP explainability (TreeExplainer) to justify flagged risk parameters.
-*   **Architecture:** Decoupled microservices (Next.js 14 Frontend $\leftrightarrow$ Express.js API Gateway $\leftrightarrow$ FastAPI ML Inference Engine) with a custom business override engine and Supabase PostgreSQL persistence (with local fallback).
-*   **Tech Stack:** Next.js, React, Node.js, Express, Python, FastAPI, Supabase PostgreSQL, Recharts, XGBoost, SHAP, Tailwind CSS.
+### 🚍 [TransitOps](https://github.com/timey07/TransitOps)
+*A comprehensive Full-Stack Transit Management platform for fleet maintenance and fuel tracking.*
+*   **Key Systems:** Real-time fuel logging, automated maintenance scheduling, and comprehensive dashboard analytics.
+*   **Architecture:** Decoupled architecture with a React/TypeScript frontend and a robust Node.js/Express backend.
+*   **Tech Stack:** React, TypeScript, Node.js, Express, Tailwind CSS.
 
 ---
 
@@ -39,49 +50,39 @@
 ### Languages & Core
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,mysql,postgres" alt="Core Languages" />
   </a>
 </p>
 
 ### Web & Backend
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,mongodb,supabase,redis,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,mongodb,supabase,redis,tailwind" alt="Web and Backend Technologies" />
   </a>
 </p>
 
 ### Infrastructure & Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,raspberrypi" alt="Infrastructure and Tools" />
   </a>
 </p>
 
 ---
 
-## 📈 GitHub Metrics
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=timey07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-<br>
-<div align="center">
+  <br><br>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=timey07&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
+  <br><br>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=timey07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=timey07&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ---
+
 
 ## 📊 Activity Graph
 
@@ -95,4 +96,8 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  
+  <br><br>
+  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:7AA2F7,50:394b70,100:1a1b26"/>
 </div>
