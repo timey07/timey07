@@ -37,12 +37,6 @@
 *   **Observability:** Prometheus & Grafana dashboard for real-time monitoring and throughput metrics, load-tested using Autocannon.
 *   **Tech Stack:** Node.js, Express, Redis, Lua scripting, Docker, Prometheus, Grafana, Jest, Autocannon.
 
-### 🚍 [TransitOps](https://github.com/timey07/TransitOps)
-*A comprehensive Full-Stack Transit Management platform for fleet maintenance and fuel tracking.*
-*   **Key Systems:** Real-time fuel logging, automated maintenance scheduling, and comprehensive dashboard analytics.
-*   **Architecture:** Decoupled architecture with a React/TypeScript frontend and a robust Node.js/Express backend.
-*   **Tech Stack:** React, TypeScript, Node.js, Express, Tailwind CSS.
-
 ---
 
 ## 🛠 Tech Stack
@@ -78,16 +72,6 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=timey07&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=timey07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
-
----
-
-
-## 📊 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=timey07&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
 ---
